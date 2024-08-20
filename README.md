@@ -15,5 +15,8 @@
 
 
 ### ER diagram & Mapping
+![E-Learning ERD](https://github.com/user-attachments/assets/3363e48f-f29f-4b15-b66c-b2f7ffcb6db4)
+
+![E-Learning Mapping](https://github.com/user-attachments/assets/935cd54b-bd49-4d99-8baf-72eba4037042)
 
 

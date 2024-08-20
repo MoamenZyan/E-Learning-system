@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Learning Platform API", "E-Learning Platform API.csproj", "{635FDC1D-F74C-4EDB-A862-B1791674514F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635FDC1D-F74C-4EDB-A862-B1791674514F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635FDC1D-F74C-4EDB-A862-B1791674514F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635FDC1D-F74C-4EDB-A862-B1791674514F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635FDC1D-F74C-4EDB-A862-B1791674514F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD7124E8-E432-40F2-9200-098F9BA68660}
+	EndGlobalSection
+EndGlobal
